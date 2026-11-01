@@ -40,8 +40,8 @@ of new features I wanted that I think you'll enjoy having too.
 
 | Platform | Status | Output / Package Location | System Requirements |
 |---|---|---|---|
-| **Windows (x64)** | **Ready** | Executable: `target/package/Nectarlink/LinkBridge.exe`<br>Staged App: `target/package/Nectarlink/` | Windows 10 (2004+) or 11, 64-bit Intel/AMD |
-| **Android Mobile** | **Ready** | APK: `android/app/build/outputs/apk/debug/app-debug.apk` | Android 8.0 (API 26) or newer |
+| **Windows (x64)** | **Ready** | [⬇️ Download Setup (.exe)](https://github.com/malusarekrishnab-cyber/Link-Bridge/releases/download/v1.0.0/Nectarlink-0.1.4-x64-setup.exe) | Windows 10 (2004+) or 11, 64-bit Intel/AMD |
+| **Android Mobile** | **Ready** | [⬇️ Download APK](https://github.com/malusarekrishnab-cyber/Link-Bridge/releases/download/v1.0.0/LinkBridge-Android.apk) | Android 8.0 (API 26) or newer |
 | **Windows (ARM64)** | **Automated in CI** | Built via GitHub Actions workflow (`.github/workflows/ci.yml`) | Windows 11 on ARM (Snapdragon / ARM64) |
 | **Linux (x86_64)** | **Automated in CI** | Built via GitHub Actions workflow (`.github/workflows/ci.yml`) | Ubuntu 24.04+, Debian 13, Fedora 40+ |
 
